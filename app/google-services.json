@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1023429215000",
+    "project_id": "courspdf-53bcc",
+    "storage_bucket": "courspdf-53bcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023429215000:android:c1a07855a1e884346bd46d",
+        "android_client_info": {
+          "package_name": "com.learningforever.mathtcs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023429215000-csu25ph66s9blkkkh6mcpo6cbtnngkl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRT0fDnikypulFUnLjOa0QzzMFhQMo_9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023429215000-csu25ph66s9blkkkh6mcpo6cbtnngkl7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
